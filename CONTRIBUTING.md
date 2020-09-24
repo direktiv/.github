@@ -32,7 +32,8 @@ We are not following a defined approval process for changes but we are trying to
 
 For all contributions, please respect the following simple guidelines:
 
-- Each pull request should implement one feature or bugfix. If you want to add or fix more than one thing, submit more than one pull request.
+- Please create an issue before working on a new feature
+- Each pull request should implement one feature or bugfix. If you want to add or fix more than one thing, submit more than one pull request
 - Do not commit changes to files that are irrelevant to your feature or bugfix (eg: .gitignore, shell scripts)
 - For vorteil tools please ensure cross-platform compatibility (Windows, Mac, Linux)
 - Be welcoming to newcomers and encourage diverse new contributors from all backgrounds
