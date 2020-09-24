@@ -1,7 +1,7 @@
 ---
-name: Feature Request
-about: Suggest a feature to vorteil
-labels: kind/feature
+name: Enhancement Request
+about: Suggest a enhancement to vorteil
+labels: enhancement
 
 ---
 
@@ -11,4 +11,4 @@ What feature are you requesting? What problem does it solve?
 
 ### Priority
 
-How important is this feature to you? 
+How important is this feature to you?
