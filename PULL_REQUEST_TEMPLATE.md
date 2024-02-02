@@ -5,7 +5,7 @@ Please describe the aim of the pull request and the changes made in the commits
 ## Checklist
 
 - [ ] Documentation updated if required
-- [ ] Are tests available
+- [ ] Test coverage is appropriate
       
 ## Checklist Internal
 
