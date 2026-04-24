@@ -2,19 +2,13 @@
 
 _Please describe the purpose of this pull request and the changes it introduces (replace this line)._
 
----
-
 ## Dev POT / Unit Test Verification
 
 _Briefly describe how these changes were tested (replace this line)._
 
----
-
 ## AI Usage
 
 _State whether AI was used, and if so, how (replace this line)._
-
----
 
 ## Checklist
 
