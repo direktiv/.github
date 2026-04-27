@@ -1,6 +1,6 @@
 ## Description
 
-_Please describe the purpose of this pull request and the changes it introduces (replace this line)._
+_Give a high-level summary, focusing on concerns and architectural decisions (replace this line)._
 
 ## Dev POT / Unit Test Verification
 
