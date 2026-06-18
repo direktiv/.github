@@ -15,6 +15,9 @@ _State whether AI was used, and if so, how (replace this line)._
 - [ ] Jira ticket is linked in the title and the AI tag is added if applicable (e.g. [TDI-XXX] [ai-assisted] short description)
 - [ ] PR has at least one label
 - [ ] Test coverage is appropriate
+- [ ] Tests are passing (locally or in pipeline):
+  - [ ] `task test:lint` and `task test:api` for any backend changes
+  - [ ] playwright tests for any ui changes
 - [ ] Jira ticket has been updated:
   - [ ] PR link was added
   - [ ] AI usage was tagged (if applicable)
